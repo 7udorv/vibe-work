@@ -1,0 +1,5 @@
+# Superpowers brainstorm cache
+.superpowers/
+
+# Node
+node_modules/
